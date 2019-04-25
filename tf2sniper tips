@@ -1,0 +1,37 @@
+okay so first i would suggest that you change your fov and make your viewmodels smalller, to do that you have to go into your steam folder.
+
+Steam > SteamApps > common > Team Fortress 2 > tf > cfg 
+
+once there you have to open the file "autoexec.cfg". If it's not there just create it.
+(Right-Click in any free space of the Folder > New > New textdocument and name it "autoexec.cfg") 
+And then you paste this into the (new) document: 
+fov_desired 90
+viewmodel_fov 70
+tf_use_min_viewmodels 1
+cl_interp 0.0325
+cl_interp_ratio 1
+rate 97000
+cl_updaterate 66
+cl_cmdrate 66
+
+This just gives an overall better experience and makes you see more things going on around you. Now off to the Sniper tips.
+
+Since i found a pretty good guide for this on the internet i dont really have to type much here.
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=128632408
+
+Some of the weapon descriptions there are outdated but the didnt change that much.
+Everything after that is pretty much up to date and will probably help you at learning Sniper.
+So basically important on that guide are the parts:
+
+"Weapon Loadouts"
+"What Sniper are you?"
+"Lag Compensation and Hitbox"
+"Sniper vs"
+"Tips and Tricks"
+
+And personally, i like to use the Basic Sniper Rifle and the Darwins Danger Shield.
+For the melee weapon i use the Kurki or the Tribalman's Shiv
+Only use the Bushwacka if you also have Jarate as secondary weapon equipped.
+
+Thats basically it. Hope i could help you a little bit. :3
